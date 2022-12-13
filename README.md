@@ -1,46 +1,47 @@
-# Getting Started with Create React App
+# SimplePokedex
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1>🔰Lista de Tarefas. (ReactJS, Typescript :)</h1>
+<p>Lista de tarefas </p>
 
-## Available Scripts
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/196553482@N03/52560328172/in/dateposted-public/" title="todolist2"><img src="https://live.staticflickr.com/65535/52560328172_2682b2a23c_o.png" width="1365" height="663" alt="todolist2"></a>
 
-In the project directory, you can run:
 
-### `npm start`
+## ☕ Usando To-do-list
+para usar a a lista de tarefas visite o  site <a src="https://to-do-list-cristolfe.netlify.app/">Lista de tarefas </a> e siga os passos:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+```
+primeiro passo:
+digite a tarefa que deseja adicionar.
+segundo passo: aperte a tecla "Enter" para a tarefa ser adicionada.
+terceiro passo: caso execute uma das tarefas, selecione a mesma para que seja riscada.
+```
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Ajustes e melhorias
 
-### `npm test`
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [x] Layout
+- [x] lógica e funcionalidades
+- [x] riscar tarefas
+- [ ] adicioanar tarefas ao localStorage
+- [ ] excluir tarefas
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Criador:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/%C3%ADcaro-cristolfe-0b8104197/" target="_blanked">
+        <img src="https://i.ibb.co/52ySbfP/icaroC.jpg" alt="icaroC" border="0" width= "100px"/><br>
+        <sub>
+          <b>Ícaro Cristolfe</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+[⬆ Voltar ao topo](#SimplePokedex)<br>
