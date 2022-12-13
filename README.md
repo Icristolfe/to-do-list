@@ -7,7 +7,7 @@
 
 
 ## ☕ Usando To-do-list
-para usar a a lista de tarefas visite o  site <a src="https://to-do-list-cristolfe.netlify.app/">Lista de tarefas </a> e siga os passos:
+para usar a a lista de tarefas visite o  site <a href="https://to-do-list-cristolfe.netlify.app/">Lista de tarefas </a> e siga os passos:
 
 ```
 primeiro passo:
