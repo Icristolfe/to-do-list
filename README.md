@@ -3,7 +3,7 @@
 <h1>🔰Lista de Tarefas. (ReactJS, Typescript :)</h1>
 <p>Lista de tarefas </p>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/196553482@N03/52560328172/in/dateposted-public/" title="todolist2"><img src="https://live.staticflickr.com/65535/52560328172_2682b2a23c_o.png" width="1365" height="663" alt="todolist2"></a>
+<a data-flickr-embed="true" href="https://to-do-list-cristolfe.netlify.app/" title="todolist2"><img src="https://live.staticflickr.com/65535/52560328172_2682b2a23c_o.png" width="1365" height="663" alt="todolist2"></a>
 
 
 ## ☕ Usando To-do-list
